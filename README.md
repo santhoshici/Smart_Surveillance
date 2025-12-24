@@ -57,7 +57,7 @@ GuardianEye is an intelligent surveillance system that leverages an ESP32-CAM ed
 ---
 ## 🎥 Demo Video
 
-https://github.com/your-username/your-repo-name/assets/xxxxx/guardianeye-demo.mp4
+video_demo.mp4
 ---
 
 ##  Getting Started
